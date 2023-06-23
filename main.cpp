@@ -1,5 +1,10 @@
 #include <iostream>
 
-int main() {
-  std::cout << "Hello world" << std::endl;
+using namespace std;
+
+int main()
+{
+	cout << "Hello CMake." << endl;
+	std::cout << "Hello World" << std::endl;
+	return 0;
 }
